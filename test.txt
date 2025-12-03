@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+This is my first file in GitHub.
+I am testing how changes are tracked.
