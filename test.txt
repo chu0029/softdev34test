@@ -1,3 +1,5 @@
 The quick brown fox jumps over the lazy dog.
 This is my first file in GitHub.
-I am testing how changes are tracked.
+I am testing how changes are tracked and also changing lines.
+
+New line
